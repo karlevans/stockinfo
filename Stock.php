@@ -30,6 +30,4 @@ class Stock {
 
 }
 
-$s = new Stock("SPCE", "Virgin Galactic");
-echo $s->symbol;
 ?>
